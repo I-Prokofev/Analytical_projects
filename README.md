@@ -5,4 +5,4 @@
 
 Название проекта |	Описание	| Используемые библиотеки и инструменты
 -----------------|------------|------------------------
-[Дашборд для аналитики YouTube-канала](https://github.com/I-Prokofev/Analytical_projects/tree/main/YouTube_analytics) |	Дашборд с метриками взаимодействия пользователей: воронка AIDA, статистика по дням и по всем видео за период.	| Pandas, Matplotlib
+[Дашборд для аналитики YouTube-канала](https://github.com/I-Prokofev/Analytical_projects/tree/main/YouTube_analytics) |	Дашборд, отображающий метрики взаимодействия пользователей YouTube-канала: воронка AIDA, статистика по дням и по всем видео за период.	| Pandas, Matplotlib
