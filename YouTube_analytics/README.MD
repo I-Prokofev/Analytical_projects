@@ -8,7 +8,7 @@
 
 ## Задача:
 
-Используя данные со статистикой YouTube-канала, построить [дашборд](https://public.tableau.com/app/profile/igor6948/viz/YouTube_analytics_pattern/Analyticsdashboard?publish=yes) с метриками взаимодействия пользователей: воронка AIDA, статистика по дням и по всем видео за период.
+Используя данные со статистикой YouTube-канала, построить [дашборд](https://public.tableau.com/app/profile/igor6948/viz/YouTube_analytics_pattern/Analyticsdashboard?publish=yes), отображающий метрики взаимодействия пользователей: воронка AIDA, статистика по дням и по всем видео за период (октябрь 2022 года).
 
 ## Сфера деятельности:
 
