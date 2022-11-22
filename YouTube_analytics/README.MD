@@ -16,7 +16,7 @@
 
 ## Используемые инструменты и библиотеки:
 
-_Python_, _Pandas_, _Seaborn_, _Plotly_, _Tableau_
+_Python_, _Pandas_, _Tableau_
 
 ## Теги:
 
