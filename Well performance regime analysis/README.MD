@@ -6,7 +6,7 @@
 
 ## Задача:
 
-Построить макет [дашборда](https://public.tableau.com/app/profile/igor6948/viz/__16653355963390/Dashboard1?publish=yes) для бизнес-заказчика.
+Построить [макет дашборда](https://public.tableau.com/app/profile/igor6948/viz/__16653355963390/Dashboard1?publish=yes) для бизнес-заказчика.
 
 ## Сфера деятельности:
 
