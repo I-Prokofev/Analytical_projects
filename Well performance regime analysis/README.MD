@@ -20,7 +20,7 @@ _Tableau_
 
 ## Теги:
 
-bi analyst, bi-аналитик, Продуктовый аналитик, Product analyst, разработчик системы отчетности, reporting analyst
+bi analyst, bi-аналитик, продуктовый аналитик, product analyst, разработчик системы отчетности, reporting analyst
 
 ## Статус проекта:
 
